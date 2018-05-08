@@ -1,8 +1,8 @@
-## Welcome to my Final-Pack
+# Welcome to my Final-Pack
 
 Here a link to all the respository I have in [github](https://github.com/ShueLee8226?tab=repositories)
 
-## Weekly Lab
+# Weekly Lab
 [Week2]()
 
 [Week3](https://github.com/ShueLee8226/Week3)
@@ -35,7 +35,25 @@ Week10 is Spring Break
 
 Week17 finish final pack and exams
 
-### Final Project
+# Final Project
+Team Name: LinuxStar
 
-The final project for my [team](https://sootsplash.csci2461.com/linuxstar.html) and our [Github Page](https://github.com/kml74123/Web-Server-Team/projects/2)
+```
+-Our project Topic: Web Server
+-Goal provide user how to create their own web page.
+```
+Link to Computer Network 3- [Linux class](https://sootsplash.csci2461.com/index.html)
 
+
+The Final Project for my [team](https://sootsplash.csci2461.com/linuxstar.html) and our [Github Page](https://github.com/kml74123/Web-Server-Team/projects/2)
+
+## Role
+[KongMeng Lee](https://github.com/kml74123) - (Testing) 
+
+[Chinou Vang](https://github.com/ChennisVang) - (Research)
+
+[Mussie Asrat](https://github.com/A2795) - (Support)
+
+[My Role](https://github.com/ShueLee8226) - [Documentation](https://github.com/ShueLee8226/FinalDoc)
+
+[Abshir Ali](https://github.com/caqlishire) - (Support)
