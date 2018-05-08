@@ -35,4 +35,7 @@ Week10 is Spring Break
 
 Week17 finish final pack and exams
 
+### Final Project
+
+The final project for my [team](https://sootsplash.csci2461.com/linuxstar.html) and our [Github Page](https://github.com/kml74123/Web-Server-Team/projects/2)
 
