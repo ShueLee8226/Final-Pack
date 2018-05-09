@@ -31,7 +31,7 @@ Week10 is Spring Break
 
 [Week15](https://github.com/ShueLee8226/Week15)
 
-[Week16]()
+[Week16](https://github.com/ShueLee8226/Week16)
 
 Week17 finish final pack and exams
 
