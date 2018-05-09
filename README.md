@@ -42,7 +42,7 @@ Team Name: LinuxStar
 -Our project Topic: Web Server
 -Goal provide user how to create their own web page.
 ```
-Link to Computer Network 3- [Linux class](https://sootsplash.csci2461.com/index.html)
+Link to the class project- [Linux class](https://sootsplash.csci2461.com/index.html)
 
 
 The Final Project for my [team](https://sootsplash.csci2461.com/linuxstar.html) and our [Github Page](https://github.com/kml74123/Web-Server-Team/projects/2)
