@@ -17,7 +17,7 @@ Here a link to all the respository I have in [github](https://github.com/ShueLee
 
 Week8 is the [Practical Midterm](https://github.com/ShueLee8226/Week8) so, basically it's a script that apply what we have learn week2 to week7
 
-Week9 is the [Midterm](https://github.com/ShueLee8226/Midterm) so, basically we just a script that apply all the command from week2 to week7
+Week9 is the [Midterm](https://github.com/ShueLee8226/Midterm) so, I just apply all the script from week2 to week7 into one
 
 Week10 is Spring Break
 
