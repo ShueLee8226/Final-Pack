@@ -13,7 +13,7 @@ Here a link to all the respository I have in [github](https://github.com/ShueLee
 - Learn about the disks and filesystem in linux and also learn how to create my own first bootable debain image USB drive with presistence in it, and clone the github repository and edite it. Aso learn the command git clone, git add * , git commit -m "  ", and git push.
 
 [Week5](https://github.com/ShueLee8226/Week5)
-- learn about the karnel and what it is and learned how the karnel boot into memory. a powerful commands I learn from this chapter is the grub command
+- learn about the karnel and what it is and learned how the karnel boot into the memory. a powerful commands I learn from this chapter is the grub command
 
 [Week6](https://github.com/ShueLee8226/Week6)
 - learned user space in the karnel and how the user space process. some command I learn is the runlevel and systemd.
