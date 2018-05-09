@@ -3,7 +3,7 @@
 Here a link to all the respository I have in [github](https://github.com/ShueLee8226?tab=repositories)
 
 # Weekly Lab
-[Week2]()
+[Week2](https://github.com/ShueLee8226/Week2)
 
 [Week3](https://github.com/ShueLee8226/Week3)
 
