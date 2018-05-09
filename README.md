@@ -4,16 +4,23 @@ Here a link to all the respository I have in [github](https://github.com/ShueLee
 
 # Weekly Lab
 [Week2](https://github.com/ShueLee8226/Week2)
+- Learn how to create my own first script in shell script 
 
 [Week3](https://github.com/ShueLee8226/Week3)
+- Learn about what device is in linux and how to interact with them. Also, learn about how to deploy our script to github.
 
 [Week4](https://github.com/ShueLee8226/Week4)
+- Learn about the disks and filesystem in linux and also learn how to create my own first bootable debain image USB drive with presistence in it, and clone the github repository and edite it. Aso learn the command git clone, git add * , git commit -m "  ", and git push.
 
 [Week5](https://github.com/ShueLee8226/Week5)
+- learn about the karnel and what it is and leanred how the karnel boot into memory. a powerful commands I learn from this chapter is the grub command
 
 [Week6](https://github.com/ShueLee8226/Week6)
+- learned user space in the karnel and how the user space process. some command I learn is the runlevel and systemd.
+- also create a readme how to create a bootable USB with presistence
 
 [Week7](https://github.com/ShueLee8226/Week7)
+- wrote 500 words response to "An IndustryGuide to Becoming a Software EngineerRead", and applying the runlevel and systemd into a script
 
 Week8 is the [Practical Midterm](https://github.com/ShueLee8226/Week8) so, basically it's a script that apply what we have learn week2 to week7
 
