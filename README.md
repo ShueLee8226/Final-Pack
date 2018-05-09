@@ -41,10 +41,10 @@ Week10 is Spring Break
 - Week14 is the chapter 14 and 15 which is brief survey of the linux desktop and developing tools. chapter 14 shows about the desktop components, and window x system. I was able learn how to create a Compilers and change the Window Manager.
 
 [Week15](https://github.com/ShueLee8226/Week15)
-- was able to create 
+- was able to create markdowm file showing how to compile a repository in github and put that in ssh into sootsplash 
 
 [Week16](https://github.com/ShueLee8226/Week16)
-
+- learn how to apply python in shell script and SQLite
 
 Week17 finish final pack and exams
 
