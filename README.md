@@ -29,16 +29,22 @@ Week9 is the [Midterm](https://github.com/ShueLee8226/Midterm) so, I just apply 
 Week10 is Spring Break
 
 [Week11](https://github.com/ShueLee8226/Week11)
+- week11 apply the chapter 9 and 10 into two separate script. In chapter 9 and 10 it talk about the network and its configuration and application and services. In those two chapter I learn about the network and its configuration some interesting thing I like about this chapter is how they talk about the transport layer in the OSI model.
 
 [Week12](https://github.com/ShueLee8226/Week12)
+- learn how to apply the tcpdump and learn about the linux router and chapter 11 learning more how to create your own shell script.
 
 [Week13](https://github.com/ShueLee8226/Week13)
+- Week13 we look at Chapter 12 Moving Files and 13 UserEnvironments. the chapter show you how move files and sharing files between device on same anetwork. Chapter 13 is about user invironment in the system, it guide you about the start up files and different type of shell script in it, such as, bash shell, tcsh shell.
 
 [Week14](https://github.com/ShueLee8226/Week14)
+- Week14 is the chapter 14 and 15 which is brief survey of the linux desktop and developing tools. chapter 14 shows about the desktop components, and window x system. I was able learn how to create a Compilers and change the Window Manager.
 
 [Week15](https://github.com/ShueLee8226/Week15)
+- was able to create 
 
 [Week16](https://github.com/ShueLee8226/Week16)
+
 
 Week17 finish final pack and exams
 
