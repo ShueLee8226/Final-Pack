@@ -21,7 +21,7 @@ Week9 is the [Midterm](https://github.com/ShueLee8226/Midterm) so, basically we 
 
 Week10 is Spring Break
 
-[Week11](https://github.com/ShueLee8226/Week11()
+[Week11](https://github.com/ShueLee8226/Week11)
 
 [Week12](https://github.com/ShueLee8226/Week12)
 
